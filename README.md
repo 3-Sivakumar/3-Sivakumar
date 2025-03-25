@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sivakumar
-- 👀 I’m interested in coding
+- 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
-- 📫 How to reach me : 2005sivakumar2005@gmail.com
+- 📫 How to reach me :  2005sivakumar2005@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
